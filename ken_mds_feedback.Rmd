@@ -1,0 +1,35 @@
+---
+title: "Ken MDS feedback"
+author: "Ken Wang"
+date: "2022-10-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{block first_text_block}
+## Honestly MDS is Pretty Stressful
+- Despite that I have some programming experience, I am still struggling to adapt to the fast pace of the **accelerated** program.
+- The `R` language feels wired to new learners.
+- The `Pandas` package takes a lot time to get familiar with.
+```
+
+```{block second_text_block}
+## The 521 Course is Super Helpful
+- Typically a CS related program doesn't have an independent course to introduce tools like `git`, `VSCode` or `RStudio`.
+- However getting comfortable with those tools is actually very important to be able to work efficiently.
+- So it's helpful to take this course at the beginning for the MDS.
+- A big **THANK YOU** to the 521 teaching team!
+```
+
+```{r define a function}
+my_print <- function() {
+  print("some random text")
+}
+```
+
+```{r invoke the function}
+my_print()
+```
