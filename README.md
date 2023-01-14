@@ -7,3 +7,5 @@ passcode: z76ui%XH
 passcode: g1ifz.j.
 
 [561 lecture 8](https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=5798be22-14ba-4c3e-a4b8-af3a0169eaa6)
+
+[561 lecture 7](https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=1b716a18-f4c8-4214-864f-af3a0169ea91)
